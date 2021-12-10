@@ -1,7 +1,7 @@
 # Technical Talentdrop
 
 ## Database Layout
-<img src="images/db_diagram.png" alt="diagram" width="650" height="247.05">
+<img src="images/db_diagram.png" alt="diagram">
 
 ## How To Run
 ### Initial Setup
