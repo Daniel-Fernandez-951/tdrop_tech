@@ -37,4 +37,4 @@ Docker container also serves up another documentation page at http://0.0.0.0:80/
 
 
 # About
-This project is connected to 
+This project is connected to a Heroku PostgeSQL database. Any remote PostgreSQL database works, just change the URL to your service.
